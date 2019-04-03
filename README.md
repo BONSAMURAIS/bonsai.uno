@@ -6,4 +6,4 @@ See it in action here: https://bonsamurais.github.io/bonsai.uno/
 
 ## Rerendering
 
-Install `staticjinja` using pip in a new virtualenv, then run `staticjinja build` in this directory.
+Install `staticjinja` using pip in a new virtualenv, then run `./render_site.py` in this directory.
